@@ -1,0 +1,1 @@
+#Cia bus ikelta 1 laboratorinio darbo medziaga

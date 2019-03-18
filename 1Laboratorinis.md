@@ -115,14 +115,14 @@ end
 ## Grafikai
 
 <center>
-**Auksinio pjūvio ir kvadratinės interpoliacijos metodas**
+<b>Auksinio pjūvio ir kvadratinės interpoliacijos metodas</b>
 </center>
 <p align="center">
 <img src="/OperacijuTyrimasIrTaikymai/APKIM.jpg">
 </p>
 
 <center>
-**Intervalo dalijimo pusiau metodas**
+<b>Intervalo dalijimo pusiau metodas</b>
 </center>
 <p align="center">
 <img src="/OperacijuTyrimasIrTaikymai/KT.jpg">

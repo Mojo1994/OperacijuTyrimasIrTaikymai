@@ -1,7 +1,15 @@
 Duota:
-* ![](/Mojo1994/OperacijuTyrimasIrTaikymai/b.gif)
+* ![](/OperacijuTyrimasIrTaikymai/b.gif)
 * ![](/OperacijuTyrimasIrTaikymai/c2.gif)
-* ![](Mojo1994/OperacijuTyrimasIrTaikymai/c.gif)
+* ![](/OperacijuTyrimasIrTaikymai/c.gif)
+
+**Matematinis modelis**
+* Vienkartinės (vienos dienos) prekių išdavimo išlaidos - ![](/OperacijuTyrimasIrTaikymai/Vien.gif) Lt.
+* Vienos dienos prekių priėmimo ir pakrovimo į sandėlį išlaidos - ![](/OperacijuTyrimasIrTaikymai/VienD.gif) Lt.
+* Prekybos bazės išlaidos per parą aprašomos kintamojo t funkcija:
+![](/OperacijuTyrimasIrTaikymai/IslaidPerPara.gif).
+Be to, žinome, kad ![](/OperacijuTyrimasIrTaikymai/Kad.gif), todėl ![](/OperacijuTyrimasIrTaikymai/todel.gif)
+Taigi, uždavinio matematinis modelis: ![](/OperacijuTyrimasIrTaikymai/MatMod.gif)
 
 
 ## Tikslo funkcija

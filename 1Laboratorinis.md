@@ -7,9 +7,9 @@ Duota:
 * Vienkartinės (vienos dienos) prekių išdavimo išlaidos - ![](/OperacijuTyrimasIrTaikymai/Vien.gif) Lt.
 * Vienos dienos prekių priėmimo ir pakrovimo į sandėlį išlaidos - ![](/OperacijuTyrimasIrTaikymai/VienD.gif) Lt.
 * Prekybos bazės išlaidos per parą aprašomos kintamojo t funkcija:
-![](/OperacijuTyrimasIrTaikymai/IslaidPerPara.gif).
-Be to, žinome, kad ![](/OperacijuTyrimasIrTaikymai/Kad.gif), todėl ![](/OperacijuTyrimasIrTaikymai/todel.gif)
-Taigi, uždavinio matematinis modelis: ![](/OperacijuTyrimasIrTaikymai/MatMod.gif)
+* ![](/OperacijuTyrimasIrTaikymai/IslaidPerPara.gif).
+* Be to, žinome, kad ![](/OperacijuTyrimasIrTaikymai/Kad.gif), todėl ![](/OperacijuTyrimasIrTaikymai/todel.gif)
+* Taigi, uždavinio matematinis modelis: ![](/OperacijuTyrimasIrTaikymai/MatMod.gif)
 
 
 ## Tikslo funkcija
@@ -111,3 +111,19 @@ function [outputArg1,outputArg2] = minIslaidos(a, b)
     
 end
 ```
+
+## Grafikai
+
+**Auksinio pjūvio ir kvadratinės interpoliacijos metodas**
+![](/OperacijuTyrimasIrTaikymai/APKIM.fig)
+
+**Intervalo dalijimo pusiau metodas**
+
+![](/OperacijuTyrimasIrTaikymai/KT.fig)
+
+![](/OperacijuTyrimasIrTaikymai/DP.fig)
+
+**Matlab funkcijos**
+* ![Tikslo funkcija](/OperacijuTyrimasIrTaikymai/tiksloFunkcija.m)
+* ![Intervamo dalijimo pusiau funkcija](/OperacijuTyrimasIrTaikymai/intervaloDalijimasPusiau.m)
+* ![Grafiko braizymas](/OperacijuTyrimasIrTaikymai/minIslaidos.m)

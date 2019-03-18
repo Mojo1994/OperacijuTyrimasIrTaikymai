@@ -1,7 +1,7 @@
-**Užduotis (Prekybos bazės uždavinys)**
-Prekybos bazė įsipareigojo saugoti prekes ir išduoti jas vartotojui kiekvieną dieną po b^* tonų. 
-Ji gali gauti prekes periodiškai kas t parų vienodo dydžio partijomis po q tonų. Vienos prekių partijos priėmimas ir pakrovimas į sandėlį kainuoja c_2 Lt. Vienos tonos vidutinės išdavimo išlaidos c_1=c^*∙t Lt. Naujos prekės vežamos paskutinę anksčiau atvežtų prekių išdavimo dieną. Reikia nustatyti optimalią vienos prekių partijos apimtį q ir jos vežimo periodą t, kad prekybos bazės išlaidos per parą būtų mažiausios.
-
+Duota:
+![Formule](https://github.com/Mojo1994/OperacijuTyrimasIrTaikymai/blob/master/b.gif)
+![Formule](https://github.com/Mojo1994/OperacijuTyrimasIrTaikymai/blob/master/c2.gif)
+![Formule](https://github.com/Mojo1994/OperacijuTyrimasIrTaikymai/blob/master/c.gif)
 
 
 ## Tikslo funkcija

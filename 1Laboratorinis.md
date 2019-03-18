@@ -115,13 +115,13 @@ end
 ## Grafikai
 
 **Auksinio pjūvio ir kvadratinės interpoliacijos metodas**
-![](/OperacijuTyrimasIrTaikymai/APKIM.fig)
+![](/OperacijuTyrimasIrTaikymai/APKIM.jpg)
 
 **Intervalo dalijimo pusiau metodas**
 
-![](/OperacijuTyrimasIrTaikymai/KT.fig)
+![](/OperacijuTyrimasIrTaikymai/KT.jpg)
 
-![](/OperacijuTyrimasIrTaikymai/DP.fig)
+![](/OperacijuTyrimasIrTaikymai/DP.jpg)
 
 **Matlab funkcijos**
 * ![Tikslo funkcija](/OperacijuTyrimasIrTaikymai/tiksloFunkcija.m)

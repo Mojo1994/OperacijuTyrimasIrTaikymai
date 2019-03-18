@@ -1,6 +1,6 @@
 Duota:
-* ![](Mojo1994/OperacijuTyrimasIrTaikymai/b.gif)
-* ![](Mojo1994/OperacijuTyrimasIrTaikymai/c2.gif)
+* ![](/Mojo1994/OperacijuTyrimasIrTaikymai/b.gif)
+* ![](/OperacijuTyrimasIrTaikymai/c2.gif)
 * ![](Mojo1994/OperacijuTyrimasIrTaikymai/c.gif)
 
 

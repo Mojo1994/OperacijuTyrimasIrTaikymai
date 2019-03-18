@@ -1,4 +1,4 @@
-#Tikslo funkcija
+# Tikslo funkcija
 ```Matlab
 function [tiksloFunkcijosReiksme] = tiksloFunkcija(t)
     b = mod(20132226, 7)/2 + 2.5;
@@ -8,7 +8,7 @@ function [tiksloFunkcijosReiksme] = tiksloFunkcija(t)
 end
 ```
 
-#Intervalo dalijimo pusiau metodas
+# Intervalo dalijimo pusiau metodas
 ```Matlab
 function [minFunkcijos, min_vidurioTaskas, iteracija, intervaloIlgis, xpoint, xvalue] = intervaloDalijimasPusiau(a, b) % a - pradzia, b - pabaiga
     iteracija = 1;
@@ -59,7 +59,7 @@ function [minFunkcijos, min_vidurioTaskas, iteracija, intervaloIlgis, xpoint, xv
     minFunkcijos = F_2vidurioTaskas;
 end
 ```
-#Grafiko braizymas
+# Grafiko braizymas
 ```Matlab
 function [outputArg1,outputArg2] = minIslaidos(a, b)
     [minFunkcijos, min_vidurioTaskas, iteracija, intervaloIlgis, xpoint, xvalue] = intervaloDalijimasPusiau(a, b)

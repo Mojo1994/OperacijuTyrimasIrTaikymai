@@ -1,4 +1,10 @@
-# Tikslo funkcija
+**Užduotis (Prekybos bazės uždavinys)**
+Prekybos bazė įsipareigojo saugoti prekes ir išduoti jas vartotojui kiekvieną dieną po b^* tonų. 
+Ji gali gauti prekes periodiškai kas t parų vienodo dydžio partijomis po q tonų. Vienos prekių partijos priėmimas ir pakrovimas į sandėlį kainuoja c_2 Lt. Vienos tonos vidutinės išdavimo išlaidos c_1=c^*∙t Lt. Naujos prekės vežamos paskutinę anksčiau atvežtų prekių išdavimo dieną. Reikia nustatyti optimalią vienos prekių partijos apimtį q ir jos vežimo periodą t, kad prekybos bazės išlaidos per parą būtų mažiausios.
+
+
+
+## Tikslo funkcija
 ```Matlab
 function [tiksloFunkcijosReiksme] = tiksloFunkcija(t)
     b = mod(20132226, 7)/2 + 2.5;
@@ -8,7 +14,7 @@ function [tiksloFunkcijosReiksme] = tiksloFunkcija(t)
 end
 ```
 
-# Intervalo dalijimo pusiau metodas
+## Intervalo dalijimo pusiau metodas
 ```Matlab
 function [minFunkcijos, min_vidurioTaskas, iteracija, intervaloIlgis, xpoint, xvalue] = intervaloDalijimasPusiau(a, b) % a - pradzia, b - pabaiga
     iteracija = 1;
@@ -59,7 +65,7 @@ function [minFunkcijos, min_vidurioTaskas, iteracija, intervaloIlgis, xpoint, xv
     minFunkcijos = F_2vidurioTaskas;
 end
 ```
-# Grafiko braizymas
+## Grafiko braizymas
 ```Matlab
 function [outputArg1,outputArg2] = minIslaidos(a, b)
     [minFunkcijos, min_vidurioTaskas, iteracija, intervaloIlgis, xpoint, xvalue] = intervaloDalijimasPusiau(a, b)

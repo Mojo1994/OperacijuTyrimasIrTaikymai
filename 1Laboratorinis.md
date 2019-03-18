@@ -1,7 +1,7 @@
 Duota:
-![Formule](https://github.com/Mojo1994/OperacijuTyrimasIrTaikymai/blob/master/b.gif)
-![Formule](https://github.com/Mojo1994/OperacijuTyrimasIrTaikymai/blob/master/c2.gif)
-![Formule](https://github.com/Mojo1994/OperacijuTyrimasIrTaikymai/blob/master/c.gif)
+* ![](Mojo1994/OperacijuTyrimasIrTaikymai/b.gif)
+* ![](Mojo1994/OperacijuTyrimasIrTaikymai/c2.gif)
+* ![](Mojo1994/OperacijuTyrimasIrTaikymai/c.gif)
 
 
 ## Tikslo funkcija
